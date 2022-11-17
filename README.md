@@ -21,3 +21,5 @@ n her seferinde ikiye bölündüğü için 2ˣ=n x=logn
 her aşamada eleman sayısı kadar işlem yaptığımız için de n
 
 O(nlogn)
+
+[www.patika.dev]
